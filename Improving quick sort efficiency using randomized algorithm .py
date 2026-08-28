@@ -124,3 +124,4 @@ for label, values in inputs.items():
         f"{random_count:>14} "
         f"{random_time:>14.2f}"
     )
+    https://github.com/Ranjith-0558/Ranjith_DAA-Experiment/blob/main/10-exp_Output.png
