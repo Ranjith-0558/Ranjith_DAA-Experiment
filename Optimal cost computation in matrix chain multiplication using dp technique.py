@@ -82,3 +82,4 @@ print("\nLeast Scalar Multiplications :", cost[1][matrix_count])
 print("Best Multiplication Order   :", display_order(split, 1, matrix_count))
 
 show_cost_matrix(cost, matrix_count)
+https://github.com/Ranjith-0558/Ranjith_DAA-Experiment/blob/main/6-exp_Output.png
