@@ -109,6 +109,7 @@ if __name__ == "__main__":
     for u, v, w in k_mst:
         print(f"Edge ({u} - {v}) Weight: {w}")
     print(f"Total MST Cost: {k_cost}")
+    https://github.com/Ranjith-0558/Ranjith_DAA-Experiment/blob/main/3-exp_Output.png
 
     print("\n=== Prim's MST ===")
     for u, v, w in p_mst:
