@@ -135,3 +135,4 @@ if __name__ == "__main__":
         _, c3 = rabin_karp(text_large, p)
 
         print(f"{p:>12} {c1:>10} {c2:>10} {c3:>10}")
+        https://github.com/Ranjith-0558/Ranjith_DAA-Experiment/blob/main/2-exp_Output.png
