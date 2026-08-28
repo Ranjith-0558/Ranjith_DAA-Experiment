@@ -81,3 +81,4 @@ for size in [10, 100, 1000, 10000]:
     formula = (3 * size) // 2 - 2
 
     print(f'{size:>8} {dc:>12} {naive:>14} {formula:>16}')
+    https://github.com/Ranjith-0558/Ranjith_DAA-Experiment/blob/main/5-exp_Output.png
