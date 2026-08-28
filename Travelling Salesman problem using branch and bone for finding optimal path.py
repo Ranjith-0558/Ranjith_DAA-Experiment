@@ -109,3 +109,4 @@ for i in range(total_places):
     end = route[i + 1]
 
     print(f"{locations[start]} -> {locations[end]} : {travel_cost[start][end]}")
+    https://github.com/Ranjith-0558/Ranjith_DAA-Experiment/blob/main/8-exp_Output.png
