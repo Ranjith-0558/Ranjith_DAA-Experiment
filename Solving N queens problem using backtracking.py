@@ -79,3 +79,4 @@ for board_size in board_sizes:
             print(f"Arrangement {number}: {layout}")
             print_chessboard(layout, board_size)
             print()
+https://github.com/Ranjith-0558/Ranjith_DAA-Experiment/blob/main/7-exp_Output.png
